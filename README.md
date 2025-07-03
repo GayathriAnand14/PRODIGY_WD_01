@@ -16,7 +16,6 @@ In this task,I designed and developed a **Responsive web page** using **HTML**.t
 
 ## OUTPUT SCREENSHOT:  
 
-![Image](https://github.com/user-attachments/assets/11c1378c-e294-407d-b4d5-5aab1a408fe9)
 
 ## WHAT I LEARNED:
 
